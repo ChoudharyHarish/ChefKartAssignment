@@ -1,0 +1,94 @@
+.h-ttile{
+    color: #1C1C1C;
+    font-size: 16px;
+    font: normal normal 600 16px/22px Open Sans;
+}
+
+
+.ht{
+  height: calc(100vh - 380px);
+}
+
+.p-text{
+    font-size:0.7rem;
+}
+
+.small-text{
+    font-size: 0.5rem;
+}
+
+.slide{
+    color: #8A8A8A; 
+    border: 0.5px solid #BDBDBD;
+    padding: 0.2rem 1.4rem ;
+}
+.active{
+    color:#FF941A;
+    background-color: #FFF9F2;  
+    border: 0.5px solid #FF941A;
+    padding: 0.2rem 1.4rem ;
+}
+
+.dishHighlight{
+    border:1px solid #FF941A;
+}
+
+
+.header{
+    display: flex;
+    gap: 1rem;
+    padding: 0.8rem 1rem;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.vertical{
+    border: 1px solid rgba(0,0,0,0.2);
+}
+
+
+.border{
+    border: 3px solid green;
+}
+
+.borderMain{
+    border: 3px solid yellow;
+}
+  
+
+  .circle{
+    width: 192px;
+    height: 100%;
+    background: #FFF9F2 0% 0% no-repeat padding-box;
+    position: absolute;
+    right: -1rem;
+    top: 1rem;
+    z-index: -10;
+  }
+
+  .image{
+    position: absolute;
+    height: 7.5rem;
+    right: -8rem;
+    bottom: -2rem;
+    z-index: -5;
+  }
+
+  .imagefront{
+    position: absolute;
+    height: 11rem;
+    right: -6rem;
+    bottom: -3.4rem;
+    z-index:10;
+  }
+
+
+  .borderBanner{
+    border-bottom:2.4px solid #F2F2F2;
+    z-index: -100;
+  }
+
+
+  .borderIngredients{
+    border-top: 1.6px solid #F2F2F2;
+  }
