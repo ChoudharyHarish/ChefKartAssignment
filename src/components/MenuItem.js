@@ -3,7 +3,6 @@ import React from 'react';
 import dot from "../images/Group 359.svg";
 import star from "../images/star.svg";
 import img from  "../images/Group 1541.svg";
-// import bg from "../images/Mask Group 19.png";
 import { Link } from 'react-router-dom';
 
 

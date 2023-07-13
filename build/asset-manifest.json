@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d2f953f.css",
+    "main.js": "/static/js/main.a07e1fa8.js",
+    "static/media/Mask Group 17@2x.png": "/static/media/Mask Group 17@2x.25e4646febfac4d52673.png",
+    "static/media/pngtree-herbal-ingredients-transparent-image-png-image_3206949-removebg-preview.png": "/static/media/pngtree-herbal-ingredients-transparent-image-png-image_3206949-removebg-preview.a659e3c5ca2b7a782ecd.png",
+    "static/media/Group 377.svg": "/static/media/Group 377.6a8b7640dbab75c1107223ccf545bbce.svg",
+    "static/media/Select_date-01.svg": "/static/media/Select_date-01.b2792fe557e685da6d5c8588c8c45583.svg",
+    "static/media/Group 508.svg": "/static/media/Group 508.aa02b255f7c960435dd0c4a86fb80f25.svg",
+    "static/media/Set_time-01.svg": "/static/media/Set_time-01.bdceadeaa5163fb61ed355b97ace4977.svg",
+    "static/media/Group 359.svg": "/static/media/Group 359.0b6694c185e318163056a31ad51c5adb.svg",
+    "static/media/clock.svg": "/static/media/clock.0a03bd8c7e48c96582f76758379a6e21.svg",
+    "index.html": "/index.html",
+    "static/media/star.svg": "/static/media/star.9fdc75830f5c8f265b25dfcbed249c48.svg",
+    "static/media/Group 1541.svg": "/static/media/Group 1541.860a0a2a09c54812ca54d639792815e6.svg",
+    "static/media/Path 786.svg": "/static/media/Path 786.edb89b5e60ff7ebc3f1deb03a7a81826.svg",
+    "main.4d2f953f.css.map": "/static/css/main.4d2f953f.css.map",
+    "main.a07e1fa8.js.map": "/static/js/main.a07e1fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d2f953f.css",
+    "static/js/main.a07e1fa8.js"
+  ]
+}
